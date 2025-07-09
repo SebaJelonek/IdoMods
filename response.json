@@ -1,0 +1,14 @@
+{
+    "orderID": "1",// string,
+    "orderBaseCurrency": {
+        "orderProductsCost": 4.32, //float
+    },
+    "productsResults": [
+        {
+            "productID":1,// int,
+            "quantity":1,// int,
+            "productOrderPrice":0.08//int
+        }
+    ],
+    "orderWorth": "orderProductsCost"//float
+}
